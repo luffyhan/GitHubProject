@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello Word, GitHub!!");
 	// edit from GitHub
 	    System.out.println("Edit from GitHub!");        // some comments
+
+        var person = new Person();
     }
 }
