@@ -6,6 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Hello Word, GitHub!!");
 	// edit from GitHub
-	System.out.println("Edit from GitHub!");
+	    System.out.println("Edit from GitHub!");        // some comments
     }
 }
